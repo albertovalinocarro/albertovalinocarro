@@ -28,4 +28,4 @@ The longer one is on my site: **[albertovalinocarro.github.io](https://albertova
 ## Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/alberto-valino-carr0/)
-- albertovalcarro@gmail.com
+- albertovcarro@gmail.com
