@@ -6,7 +6,8 @@ Dublin, Ireland · open to remote roles in the EU
 I have nine years of production PHP at Three Ireland, where I build and run applications used by more than 350 people across several companies.
 I currently lead the rebuild of a critical internal telecom platform as a Laravel application on AWS: the architecture, all the Terraform, and the CI/CD pipeline.
 
-Most of my work lives in private repositories, so this page is the short version. The longer one is on my site: **[albertovalinocarro.github.io](https://albertovalinocarro.github.io)**
+Most of my work lives in private repositories, so this page is the short version.
+The longer one is on my site: **[albertovalinocarro.github.io](https://albertovalinocarro.github.io)**
 
 ## What I work with
 
