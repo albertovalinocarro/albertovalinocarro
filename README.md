@@ -1,7 +1,7 @@
 # Hi, I'm Alberto 👋
 
 **Senior Full-Stack Developer · Laravel, React/Vue, AWS**
-Dublin, Ireland · open to remote roles in the EU
+ · Dublin, Ireland · Open to remote roles in the EU
 
 I have nine years of production PHP at Three Ireland, where I build and run applications used by more than 350 people across several companies.
 I currently lead the rebuild of a critical internal telecom platform as a Laravel application on AWS: the architecture, all the Terraform, and the CI/CD pipeline.
